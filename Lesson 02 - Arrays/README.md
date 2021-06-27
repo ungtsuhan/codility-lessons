@@ -10,7 +10,9 @@ The goal is to rotate array A K times; that is, each element of A will be shifte
 
 Write a function:
 
+```csharp
 class Solution { public int[] solution(int[] A, int K); }
+```
 
 that, given an array A consisting of N integers and an integer K, returns the array A rotated K times.
 
