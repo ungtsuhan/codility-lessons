@@ -1,1 +1,1 @@
-# codility-lessons-csharp
+# Codility Lessons (C#)
