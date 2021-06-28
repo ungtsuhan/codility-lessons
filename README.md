@@ -7,4 +7,4 @@
 **Lesson 2 - Arrays**
 
 - [Cyclic Rotation](Lesson%2002%20-%20Arrays/CyclicRotation_01.cs)
-- [Odd Occurrences](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_02.cs)
+- [Odd Occurrences In Array](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_02.cs)
