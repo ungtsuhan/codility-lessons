@@ -13,4 +13,4 @@
 
 - [Frog Jmp](Lesson%2003%20-%20Time%20Complexity/FrogJmp_01.cs)
 - [Perm Missing Elem](Lesson%2003%20-%20Time%20Complexity/PermMissingElem_02.cs)
-- [Tap Equilibrium](Lesson%2003%20-%20Time%20Complexity/TapeEquilibrium_01.cs)
+- [Tape Equilibrium](Lesson%2003%20-%20Time%20Complexity/TapeEquilibrium_01.cs)
