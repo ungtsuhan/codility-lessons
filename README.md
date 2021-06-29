@@ -8,3 +8,7 @@
 
 - [Cyclic Rotation](Lesson%2002%20-%20Arrays/CyclicRotation_01.cs)
 - [Odd Occurrences In Array](Lesson%2002%20-%20Arrays/OddOccurrencesInArray_02.cs)
+
+**Lesson 3 - Time Complexity**
+
+- [Frog Jmp](Lesson%2003%20-%20Time%20Complexity/FrogJmp_01.cs)
