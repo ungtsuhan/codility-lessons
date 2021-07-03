@@ -18,3 +18,4 @@
 **Lesson 4 - Counting Elements**
 
 - [Max Counter](Lesson%2004%20-%20Counting%20Elements/MaxCounters_01.cs)
+- [Missing Integer](Lesson%2004%20-%20Counting%20Elements/MissingInteger_01.cs)
