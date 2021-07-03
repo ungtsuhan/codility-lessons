@@ -14,3 +14,7 @@
 - [Frog Jmp](Lesson%2003%20-%20Time%20Complexity/FrogJmp_01.cs)
 - [Perm Missing Elem](Lesson%2003%20-%20Time%20Complexity/PermMissingElem_02.cs)
 - [Tape Equilibrium](Lesson%2003%20-%20Time%20Complexity/TapeEquilibrium_01.cs)
+
+**Lesson 4 - Counting Elements**
+
+- [Max Counter](Lesson%2004%20-%20Counting%20Elements/MaxCounters_01.cs)
