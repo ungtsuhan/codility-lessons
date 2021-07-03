@@ -22,7 +22,6 @@ class Solution {
         
         foreach(var num in A)
         {
-            
             if(num > 0)
             {
                 // numToSearch is missing
