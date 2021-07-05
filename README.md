@@ -24,4 +24,4 @@
 
 **Lesson 5 - Prefix Sums**
 
-- [Count Div](Lesson%2004%20-%20Counting%20Elements/CountDiv_01.cs)
+- [Count Div](Lesson%2004%20-%20Prefix%20Sums/CountDiv_01.cs)
