@@ -25,3 +25,4 @@
 **Lesson 5 - Prefix Sums**
 
 - [Count Div](Lesson%2005%20-%20Prefix%20Sums/CountDiv_01.cs)
+- [Genomic Range Query](Lesson%2005%20-%20Prefix%20Sums/GenomicRangeQuery_01.cs)
