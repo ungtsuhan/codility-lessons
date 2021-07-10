@@ -10,6 +10,9 @@
 // Performance  : 0%
 //	
 ///////////////////////////////////////////////////////////////////////////////////
+
+using System;
+
 class Solution {
     public int solution(int[] A) {
         int count = 0;
