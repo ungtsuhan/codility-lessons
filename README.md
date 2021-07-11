@@ -31,4 +31,4 @@
 
 **Lesson 6 - Sorting**
 
--[Distinct](Lesson%2006%20-%20Sorting/Distinct_01.cs)
+- [Distinct](Lesson%2006%20-%20Sorting/Distinct_01.cs)
