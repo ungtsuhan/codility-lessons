@@ -28,3 +28,6 @@
 - [Genomic Range Query](Lesson%2005%20-%20Prefix%20Sums/GenomicRangeQuery_01.cs)
 - [Min Avg Two Slice](Lesson%2005%20-%20Prefix%20Sums/MinAvgTwoSlice_01.cs)
 - [Passing Cars](Lesson%2005%20-%20Prefix%20Sums/PassingCars_01.cs)
+
+**Lesson 6 - Sorting**
+-[Distinct](Lesson%2006%20-%20Sorting/Distinct_01.cs)
